@@ -29,7 +29,7 @@ The book goes translated into English like this[2]:
 
 class NumberError(Exception):
     """
-    Chickens' num isn't positive number.
+    Chickens' num / rabbits' num isn't positive number.
     """
 
     def __init__(self, *args, **kwargs):
