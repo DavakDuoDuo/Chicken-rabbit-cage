@@ -1,7 +1,7 @@
 # Chicken-rabbit-cage
+(math)
 有中文!!!
 
-EN:
 Chicken rabbit cages are one of the mathematical problems of ancient China.
 About 1500 years ago, this interesting question was recorded <Sun Tzu Arithmetic>[1].
 The book goes translated into English like this[2]:
@@ -20,7 +20,7 @@ The book goes translated into English like this[2]:
         问雉兔各几何？
         ask how many chickens and rabbits there are?
   
-CH:
+    
 Chicken rabbit cage ----- 鸡兔同笼
 鸡兔同笼是中国古代的数学名题之一。大约在1500年前，《孙子算经》中就记载了这个有趣的问题。书中是这样叙述的：
   今有雉兔同笼，
